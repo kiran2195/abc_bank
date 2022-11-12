@@ -35,6 +35,8 @@ public class Ticket {
 	private String destinationStation;
 	
 	private String email;
+        
+        private String address;
 
 	public Ticket(String passanfgerName, String sourceStation, String destinationStation,
 			String email) {
