@@ -38,6 +38,8 @@ public class Ticket {
         
         private String address;
 
+        priavte String sirname; 
+
 	public Ticket(String passanfgerName, String sourceStation, String destinationStation,
 			String email) {
 		super();
