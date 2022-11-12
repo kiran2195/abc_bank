@@ -36,6 +36,8 @@ public class Ticket {
 	
 	private String email; 
 
+        private String kiran;
+
 	public Ticket(String passanfgerName, String sourceStation, String destinationStation,
 			String email) {
 		super();
