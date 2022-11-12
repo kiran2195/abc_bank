@@ -37,6 +37,8 @@ public class Ticket {
 	private String email;
         
         private String address;
+	
+	private String name;
 
         priavte String sirname; 
 
