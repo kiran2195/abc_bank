@@ -34,13 +34,7 @@ public class Ticket {
 	@Column(name="destination_station")
 	private String destinationStation;
 	
-	private String email;
-        
-        private String address;
-	
-	private String name;
-
-        priavte String sirname; 
+	private String email; 
 
 	public Ticket(String passanfgerName, String sourceStation, String destinationStation,
 			String email) {
